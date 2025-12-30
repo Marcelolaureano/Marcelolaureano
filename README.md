@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 # Olá eu sou Marcelo Laureano !!!
 
-<!--
-**Marcelolaureano/Marcelolaureano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Front-end **iniciante**, em constante aprendizado e evolução.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 ## Sobre mim !!!
+ 
+📚 Estudando Desenvolvimento Front - End.
+
+💻 Focado em ** HTML, CSS,JAVASCRIPT**.
+
+🌱 começando a Apreder ** REACT, ANGULAR,VUE **.
+
+
+🎯 Buscando minha primeira oportunidade na área.
+
+
+
