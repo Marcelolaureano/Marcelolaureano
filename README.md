@@ -7,9 +7,9 @@
  
 📚 Estudando Desenvolvimento Front - End.
 
-💻 Focado em ** HTML, CSS,JAVASCRIPT**.
+💻 Focado em ** HTML, CSS, JAVASCRIPT **.
 
-🌱 começando a Apreder ** REACT, ANGULAR,VUE **.
+🌱 começando a Apreder ** REACT, ANGULAR, VUE **.
 
 
 🎯 Buscando minha primeira oportunidade na área.
