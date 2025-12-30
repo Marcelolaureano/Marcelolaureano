@@ -1,6 +1,6 @@
 👋 # Olá eu sou Marcelo Laureano !!!
 
-🚀 Desenvolvedor Front-end **iniciante**, em constante aprendizado e evolução.
+🚀 Desenvolvedor Front-end ** iniciante **, em constante aprendizado e evolução.
 
 
 👩‍💻 ## Sobre mim !!!
